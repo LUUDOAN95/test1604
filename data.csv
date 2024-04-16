@@ -1,0 +1,38 @@
+﻿Url,Anchor Text,External
+https://jmeter-plugins.org/,JMeter Plugins,FALSE
+https://jmeter-plugins.org/,,FALSE
+https://jmeter-plugins.org/editor/?utm_source=jpgc&utm_medium=banner&utm_campaign=header,,FALSE
+https://jmeter-plugins.org/install/,Install,FALSE
+https://jmeter-plugins.org/catalogue/,Browse Plugins,FALSE
+https://jmeter-plugins.org/wiki/,Documentation,FALSE
+https://jmeter-plugins.org/stats/,Usage Statistics,FALSE
+https://jmeter-plugins.org/support/,Support Forums,FALSE
+https://jmeter-plugins.org/editor/,JMX Editor,FALSE
+https://twitter.com/jmeter_plugins,,TRUE
+http://jmeter.apache.org/,,TRUE
+http://jmeter.apache.org/,Apache JMeter,TRUE
+https://jmeter-plugins.org/wiki/PluginsManager/,Plugins Manager,FALSE
+https://github.com/Blazemeter/jmeter-bzm-plugins/blob/master/directory-listing/DirectoryListing.md,Directory Listing Config,TRUE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.1.zip,0.1,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.2.zip,0.2,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.3.zip,0.3,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.1.zip,0.1,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.2.zip,0.2,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-directory-listing-0.3.zip,0.3,FALSE
+https://github.com/Blazemeter/jmeter-bzm-plugins/blob/master/directory-listing/DirectoryListing.md,,TRUE
+https://jmeter-plugins.org/wiki/CompositeGraph/,Composite Timeline Graph,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-graphs-composite-2.0.zip,2,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-graphs-composite-2.0.zip,2,FALSE
+https://jmeter-plugins.org/wiki/CompositeGraph/,,FALSE
+https://jmeter-plugins.org/,jpgc - Standard Set,FALSE
+https://jmeter-plugins.org/wiki/ResponseTimesOverTime/,3 Basic Graphs,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-graphs-basic-2.0.zip,2,FALSE
+https://jmeter-plugins.org/files/packages/jpgc-graphs-basic-2.0.zip,2,FALSE
+https://jmeter-plugins.org/wiki/ResponseTimesOverTime/,,FALSE
+https://github.com/BrightTag/kafkameter,Kafka Support,TRUE
+https://jmeter-plugins.org/files/packages/kafkameter-0.2.0.zip,0.2.0,FALSE
+https://jmeter-plugins.org/files/packages/kafkameter-0.2.0.zip,0.2.0,FALSE
+https://jmeter-plugins.org/wiki/,111 more plugins…,FALSE
+https://www.linkedin.com/in/andreypohilko,Andrey Pokhilko,TRUE
+https://jmeter-plugins.org/wiki/Contributors/,project contributors,FALSE
+http://www.apache.org/licenses/LICENSE-2.0,Apache 2.0 License,TRUE
